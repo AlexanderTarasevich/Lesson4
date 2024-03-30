@@ -24,10 +24,6 @@ public class Task2 {
         }
         System.out.println("Минимальный элемент: " + min);
         System.out.println("Максимальный элемент: " + max);
-<<<<<<< HEAD
 
-=======
-        System.out.println("new new");
->>>>>>> 37daf07 (Initial commit)
     }
 }
