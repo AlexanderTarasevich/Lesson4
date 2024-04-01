@@ -32,7 +32,7 @@ public class TaskStar {
             array = result;
         }
 
-        System.out.print("Исправленный массив: ");
+        System.out.print("Новый массив: ");
         for (int num : array) {
             System.out.print(num + " ");
         }
